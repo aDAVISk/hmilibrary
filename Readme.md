@@ -1,4 +1,5 @@
 !!! This hmilibrary project is beta version. Please use this under your responsibility. !!!
+
  Creative Commons BY: Akito D. Kawamura
  
  Provides preparation routine for data captured by the HMI instrument on SDO.
