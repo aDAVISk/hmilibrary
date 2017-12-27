@@ -12,4 +12,4 @@
  	Sunpy 0.8.2
 
  ---update log---
-	2017.12.27 : release beta version tested with HMI.M & HMI.C
+ 	2017.12.27 : release beta version tested with HMI.M & HMI.C
