@@ -64,4 +64,4 @@ def hmiprep(hmimap,missing=0.0):
 	newmap.meta['lvl_num'] = 1.5
 
 	return newmap
-	#End of hmiprep
+#End of hmiprep
