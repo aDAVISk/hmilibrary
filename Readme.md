@@ -8,6 +8,7 @@ Provides preparation routine for data captured by the HMI instrument on SDO.<br>
 
 ### License & Author
 Creative Commons BY: Akito D. Kawamura
+Also this project deeply relies on sunpy project (http://sunpy.org/)
 
 ### Confirmed working environment: 
   Python 3.6.3<br>
