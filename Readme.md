@@ -7,7 +7,7 @@ Provides preparation routine for data captured by the HMI instrument on SDO.<br>
   http://docs.sunpy.org/en/stable/_modules/sunpy/instr/aia.html#aiaprep (retrieved at 2017.12.26)
 
 ### License & Author
-Creative Commons BY: Akito D. Kawamura
+Creative Commons BY: Akito D. Kawamura <br>
 Also this project deeply relies on sunpy project (http://sunpy.org/)
 
 ### Confirmed working environment: 
