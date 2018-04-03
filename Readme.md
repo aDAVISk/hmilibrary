@@ -1,3 +1,7 @@
+
+## !!! This directory is being updated at PythonForSpaceWeather directory !!!<br>
+https://github.com/aDAVISk/PythonForSpaceWeather/tree/master/hmilibrary 
+
 # hmilibrary
 
 !!! This hmilibrary project is beta version. Please use this under your responsibility. !!!
