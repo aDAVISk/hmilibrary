@@ -1,6 +1,6 @@
 
 ## !!! This directory is being updated at PythonForSpaceWeather directory !!!<br>
-https://github.com/aDAVISk/PythonForSpaceWeather/tree/master/hmilibrary 
+Please go to https://github.com/aDAVISk/PythonForSpaceWeather/tree/master/hmilibrary 
 
 # hmilibrary
 
